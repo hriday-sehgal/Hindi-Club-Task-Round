@@ -1,4 +1,7 @@
 # Hindi-Club-Task-Round
+
+This repo contains Tasks for Hindi Club (VIT Bhopal) Technical Round 
+
 Github Repo link - https://github.com/hriday-sehgal/Hindi-Club-Task-Round
 
 Task 1 - Hindi club basic html page
